@@ -88,6 +88,6 @@
     "fftv": {
       "api": "http://api.ffzyapi.com/api.php/provide/vod",
       "name": "非凡资源网"
-    },
+    }
   }
 }
